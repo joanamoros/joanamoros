@@ -146,10 +146,11 @@ Más proyectos disponibles en mis repositorios.
 
 ---
 
-# Currículum
+# Otros
 
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](./cv-joan-amoros-2026.pdf)
 
----
+[![LeetCode](https://img.shields.io/badge/LeetCode-joanamoros23-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/joanamoros23/)
+
 
 ![](https://visitcount.itsvg.in/api?id=joanamoros&icon=0&color=0)
