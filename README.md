@@ -146,7 +146,7 @@ Más proyectos disponibles en mis repositorios.
 
 ---
 
-# 📄 Curriculum
+# Currículum
 
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](./cv-joan-amoros-2026.pdf)
 
