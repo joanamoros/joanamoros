@@ -1,9 +1,31 @@
 <div align="center">
-  <h1 align="center"> Hola, soy Joan Amorós 👋🏻</h1>
+  <h1>Hola, soy Joan Amorós 👋🏻</h1>
 </div>
 
-**Graduado en Ingeniería Informática en Tecnologías de la Información**  
+<div align="center">
+
+**Ingeniero Informático Junior | Desarrollo de Software y Análisis de Datos**  
 Universidad Miguel Hernández de Elche  
+
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joan-amoros-ramirez/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/_johan023/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://open.spotify.com/user/31nnarz6qcbgz42zba24ea3cwpya" target="_blank">
+<img src="https://skillicons.dev/icons?i=spotify" height="40"/>
+</a>
+
+</div>
+
+---
 
 Interesado en el **desarrollo de software, análisis de datos y tecnologías web**.  
 Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para mejorar mis habilidades.
@@ -11,11 +33,11 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 ---
 
 # Redes sociales
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-amor%C3%B3s-ram%C3%ADrez-645a24224/)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/@Johan023)](https://www.youtube.com/@Johan023) <- aqui me sale channel not found
-[![Gmail Badge](https://img.shields.io/badge/-joanamorosramirez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joanamorosramirez@gmail.com)](mailto:joanamorosramirez@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/joanamoros)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-amoros-ramirez/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Johan023)
+[![Gmail Badge](https://img.shields.io/badge/-joanamorosramirez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joanamorosramirez@gmail.com)](mailto:joanamorosramirez@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/joanamoros?style=social)](https://github.com/joanamoros)
 
 ---
 
@@ -38,7 +60,7 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data & visualización
+### Data & Visualización
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -54,25 +76,79 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 
 ---
 
-# Estadísticas de GitHub
+# Proyectos destacados
 
-![](https://github-readme-stats.vercel.app/api?username=joanamoros&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=joanamoros&theme=default_repocard&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joanamoros&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### DNS Cache Viewer
+**Tecnologías:** Python · Bash  
+
+Herramienta para **visualizar y analizar la caché DNS del sistema**, facilitando la inspección y depuración de resoluciones de dominio.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Análisis de datos
+**Tecnologías:** Python · Pandas · Matplotlib  
+
+Pipeline de **análisis, limpieza y visualización de datos**, aplicando técnicas básicas de exploración de datos.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Sistema de tickets turísticos
+**Tecnologías:** PL/SQL · Oracle  
+
+Simulación de un **sistema de venta de entradas turísticas**, con diseño de base de datos y lógica PL/SQL.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### Aplicación Web Laravel
+**Tecnologías:** PHP · Laravel  
+
+Desarrollo de una **aplicación web con arquitectura MVC**, implementando backend y gestión de datos.
+
+</td>
+
+<td width="33%" valign="top">
+
+### PseudoDB
+**Tecnologías:** C  
+
+Implementación de una **base de datos simplificada**, aplicando estructuras de datos, gestión de memoria dinámica y manejo de archivos.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Otros proyectos
+Más proyectos disponibles en mis repositorios.
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# Proyectos destacados
+# 📄 Curriculum
 
-**DNS Cache Viewer (Python, Bash):** diseño de una herramienta para la visualización y análisis de la caché DNS.
-
-**Análisis de datos (Python):** desarrollo de un flujo de análisis, limpieza y visualización de datos con Pandas, Matplotlib y Scikit-learn, aplicando técnicas básicas de machine learning.
-
-**Sistema de venta de tickets turísticos (PL/SQL):** proyecto simulando un sistema de venta de entradas con base de datos Oracle.
-
-**Aplicación web con Laravel:** desarrollo de una aplicación web utilizando PHP y el framework Laravel.
-
-**PseudoDB (C):** implementación de una base de datos simplificada aplicando estructuras de datos, gestión de memoria dinámica y manejo de archivos.
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](./assets/cv-joan-amoros.pdf)
 
 ---
 
