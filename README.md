@@ -1,4 +1,6 @@
-# Joan Amorós
+<div align="center">
+  <h1 align="center"> Hola, soy Joan Amorós 👋🏻</h1>
+</div>
 
 **Graduado en Ingeniería Informática en Tecnologías de la Información**  
 Universidad Miguel Hernández de Elche  
@@ -10,6 +12,10 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 
 # Redes sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-amor%C3%B3s-ram%C3%ADrez-645a24224/)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/@Johan023)](https://www.youtube.com/@Johan023) <- aqui me sale channel not found
+[![Gmail Badge](https://img.shields.io/badge/-joanamorosramirez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joanamorosramirez@gmail.com)](mailto:joanamorosramirez@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/joanamoros)
+
 
 ---
 
