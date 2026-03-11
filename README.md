@@ -76,6 +76,12 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 
 ---
 
+# Estadísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanamoros)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 # Proyectos destacados
 
 <div align="center">
