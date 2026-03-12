@@ -81,8 +81,9 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanamoros)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
 
-# Proyectos destacados
+## Proyectos destacados
 
 <div align="center">
 
@@ -91,28 +92,35 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 
 <td width="33%" valign="top">
 
-### DNS Cache Viewer
-**Tecnologías:** Python · Bash  
+<strong><span style="font-size:24px;">DNS Cache Viewer</span></strong>
 
-Herramienta para **visualizar y analizar la caché DNS del sistema**, facilitando la inspección y depuración de resoluciones de dominio.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 
-</td>
-
-<td width="33%" valign="top">
-
-### Análisis de datos
-**Tecnologías:** Python · Pandas · Matplotlib  
-
-Pipeline de **análisis, limpieza y visualización de datos**, aplicando técnicas básicas de exploración de datos.
+Herramienta para visualizar y analizar la caché DNS del sistema, facilitando la inspección y depuración de resoluciones de dominio.
 
 </td>
 
 <td width="33%" valign="top">
 
-### Sistema de tickets turísticos
-**Tecnologías:** PL/SQL · Oracle  
+<strong><span style="font-size:24px;">Análisis de datos</span></strong>
 
-Simulación de un **sistema de venta de entradas turísticas**, con diseño de base de datos y lógica PL/SQL.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=black)
+
+Pipeline de análisis, limpieza y visualización de datos, aplicando técnicas básicas de exploración de datos y análisis estadístico.
+
+</td>
+
+<td width="33%" valign="top">
+
+<strong><span style="font-size:24px;">Sistema de tickets turísticos</span></strong>
+
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+
+Simulación de un sistema de venta de entradas turísticas, con diseño de base de datos relacional y lógica PL/SQL.
 
 </td>
 
@@ -122,26 +130,32 @@ Simulación de un **sistema de venta de entradas turísticas**, con diseño de b
 
 <td width="33%" valign="top">
 
-### Aplicación Web Laravel
-**Tecnologías:** PHP · Laravel  
+<strong><span style="font-size:24px;">Aplicación Web Laravel</span></strong>
 
-Desarrollo de una **aplicación web con arquitectura MVC**, implementando backend y gestión de datos.
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
-</td>
-
-<td width="33%" valign="top">
-
-### PseudoDB
-**Tecnologías:** C  
-
-Implementación de una **base de datos simplificada**, aplicando estructuras de datos, gestión de memoria dinámica y manejo de archivos.
+Desarrollo de una aplicación web basada en arquitectura MVC, implementando backend, rutas y gestión de datos.
 
 </td>
 
 <td width="33%" valign="top">
 
-### Otros proyectos
-Más proyectos disponibles en mis repositorios.
+<strong><span style="font-size:24px;">PseudoDB</span></strong>
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+
+Implementación de una base de datos simplificada en C, aplicando estructuras de datos, gestión de memoria dinámica y manejo de archivos.
+
+</td>
+
+<td width="33%" valign="top">
+
+<strong><span style="font-size:24px;">Otros proyectos</span></strong>
+
+Diversos lenguajes y herramientas.
+
+Puedes encontrar más proyectos, prácticas y experimentos en mis repositorios de GitHub.
 
 </td>
 
@@ -150,7 +164,9 @@ Más proyectos disponibles en mis repositorios.
 
 </div>
 
+
 ---
+
 
 # Otros
 
