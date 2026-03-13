@@ -83,84 +83,32 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 
 ---
 
-## Proyectos destacados
+## Proyectos y repositorios
 
 <div align="center">
 
-<table>
-<tr>
+<div align="center">
 
-<td width="33%" valign="top">
+| Repo | Tecnologías | Descripción |
+|----------|-------------|-------------|
+| **DNS Cache Viewer** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white) | Herramienta para visualizar y analizar la caché DNS del sistema, facilitando la inspección y depuración de resoluciones de dominio. |
+| **Diseño de Sistemas Operativos** | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | Investigación y documentación de la inclusión de una nueva llamada al sistema en Linux |
+| **Proyectos web** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Algunas páginas web simples |
+| **Prácticas DAI** | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | Prácticas de la asignatura "Desarrollo de Aplicaciones en Internet" de 3º de Ingeniería Informática |
+| **Programación Orientada a Objetos** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | Prácticas de la asignatura "Programación Orientada a Objetos" de 2º de Ingeniería Informática |
+| **Sistemas operativos** | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | Prácticas de la asignatura "Sistemas Operativos" de 2º de Ingeniería Informática |
+| **Sistema de tickets turísticos** | ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?logo=oracle&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) | Simulación de un sistema de venta de entradas turísticas, con diseño de base de datos relacional y lógica PL/SQL. |
+| **Erasmus Projects 2023** | ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![EJS](https://img.shields.io/badge/EJS-8E44AD?logo=node.js&logoColor=white) | Here there are some projects I did during my Erasmus in Zagreb (Croatia) in the 2023 academic year |
+| **Análisis de datos** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib&logoColor=black) | Pipeline de análisis, limpieza y visualización de datos, aplicando técnicas básicas de exploración de datos y análisis estadístico. |
+| **Lenguaje SQL** | ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) | Prácticas de la asignatura "Fundamentos de Bases de Datos" de 2º de Ingeniería Informática |
+| **Prácticas de Estructuras de Datos** | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) | Prácticas de la asignatura "Estructura de Datos" de 2º de Ingeniería Informática |
+| **Interfaces de Usuario** | ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) | Prácticas de la asignatura "Interfaces de Usuario" de 2º de Ingeniería Informática desarrolladas en C# |
+| **Metodología de la programación y Algoritmia** | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) | Prácticas de la asignatura "Metodología de la Programación y Algoritmia" de 1º de Ingeniería Informática |
+| **Investigación Operativa** | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) | Prácticas de la asignatura "Investigación Operativa" de 1º de Ingeniería Informática |
+| **PseudoDB** | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | Implementación de una base de datos simplificada en C, aplicando estructuras de datos, gestión de memoria dinámica y manejo de archivos. |
+| **Prácticas de estadística** | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) | Prácticas de la asignatura "Estadística" de 1º de Ingeniería Informática |
 
-<strong><span style="font-size:24px;">DNS Cache Viewer</span></strong>
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
-
-Herramienta para visualizar y analizar la caché DNS del sistema, facilitando la inspección y depuración de resoluciones de dominio.
-
-</td>
-
-<td width="33%" valign="top">
-
-<strong><span style="font-size:24px;">Análisis de datos</span></strong>
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=black)
-
-Pipeline de análisis, limpieza y visualización de datos, aplicando técnicas básicas de exploración de datos y análisis estadístico.
-
-</td>
-
-<td width="33%" valign="top">
-
-<strong><span style="font-size:24px;">Sistema de tickets turísticos</span></strong>
-
-![PLSQL](https://img.shields.io/badge/PLSQL-F80000?logo=oracle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-
-Simulación de un sistema de venta de entradas turísticas, con diseño de base de datos relacional y lógica PL/SQL.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<strong><span style="font-size:24px;">Aplicación Web Laravel</span></strong>
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-
-Desarrollo de una aplicación web basada en arquitectura MVC, implementando backend, rutas y gestión de datos.
-
-</td>
-
-<td width="33%" valign="top">
-
-<strong><span style="font-size:24px;">PseudoDB</span></strong>
-
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-
-Implementación de una base de datos simplificada en C, aplicando estructuras de datos, gestión de memoria dinámica y manejo de archivos.
-
-</td>
-
-<td width="33%" valign="top">
-
-<strong><span style="font-size:24px;">Otros proyectos</span></strong>
-
-Diversos lenguajes y herramientas.
-
-Puedes encontrar más proyectos, prácticas y experimentos en mis repositorios de GitHub.
-
-</td>
-
-</tr>
-</table>
+</div>
 
 </div>
 
