@@ -34,11 +34,7 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 
 # Redes sociales
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-amoros-ramirez/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Johan023)
-[![Gmail Badge](https://img.shields.io/badge/-joanamorosramirez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joanamorosramirez@gmail.com)](mailto:joanamorosramirez@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/joanamoros?style=social)](https://github.com/joanamoros)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-amoros-ramirez/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Johan023) [![Gmail Badge](https://img.shields.io/badge/-joanamorosramirez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joanamorosramirez@gmail.com)](mailto:joanamorosramirez@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/joanamoros?style=social)](https://github.com/joanamoros) ![Profile Views](https://komarev.com/ghpvc/?username=joanamoros&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 # Tech Stack
