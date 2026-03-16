@@ -87,6 +87,7 @@ Actualmente sigo aprendiendo nuevas herramientas y construyendo proyectos para m
 
 | Repo | Tecnologías | Descripción |
 |----------|-------------|-------------|
+| **Portfolio** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Sitio web personal |
 | **DNS Cache Viewer** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white) | Herramienta para visualizar y analizar la caché DNS del sistema, facilitando la inspección y depuración de resoluciones de dominio. |
 | **Diseño de Sistemas Operativos** | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | Investigación y documentación de la inclusión de una nueva llamada al sistema en Linux |
 | **Proyectos web** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Algunas páginas web simples |
